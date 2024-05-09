@@ -1,0 +1,93 @@
+2024-05-09 13:52:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\sadhu\OneDrive\Documents\java automation\openCart\master.xml
+
+2024-05-09 13:52:17 INFO  TC_001_AccountRegistrationTest:60 - Strating TC_001_AccountRegistrationtTest
+2024-05-09 13:52:18 INFO  TC_001_AccountRegistrationTest:64 - Clicked on My Account 
+2024-05-09 13:52:19 INFO  TC_001_AccountRegistrationTest:67 - Clicked on Register 
+2024-05-09 13:52:19 INFO  TC_001_AccountRegistrationTest:72 - Provided First Name 
+2024-05-09 13:52:19 INFO  TC_001_AccountRegistrationTest:75 - Provided Last Name 
+2024-05-09 13:52:19 INFO  TC_001_AccountRegistrationTest:79 - Provided Email 
+2024-05-09 13:52:19 INFO  TC_001_AccountRegistrationTest:82 - Provided Telephone 
+2024-05-09 13:52:19 INFO  TC_001_AccountRegistrationTest:85 - Provided Password 
+2024-05-09 13:52:20 INFO  TC_001_AccountRegistrationTest:88 - Provided Confrmed Password 
+2024-05-09 13:52:20 INFO  TC_001_AccountRegistrationTest:91 - Set Privacy Policy 
+2024-05-09 13:52:21 INFO  TC_001_AccountRegistrationTest:94 - Clicked on Continue 
+2024-05-09 13:52:23 INFO  TC_001_AccountRegistrationTest:106 - Finished TC_001_AccountRegistrationtTest
+2024-05-09 13:52:27 INFO  TC_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-05-09 13:52:27 INFO  TC_002_LoginTest:21 - clicked on myaccount link on the home page..
+2024-05-09 13:52:28 INFO  TC_002_LoginTest:23 - clicked on login link under myaccount..
+2024-05-09 13:52:28 INFO  TC_002_LoginTest:27 - Entering valid email and password..
+2024-05-09 13:52:29 INFO  TC_002_LoginTest:31 - clicked on ligin button..
+2024-05-09 13:52:29 INFO  TC_002_LoginTest:43 - **** Finished TC_002_LoginTest  ****
+2024-05-09 20:55:05 INFO  TC_001_AccountRegistrationTest:60 - Strating TC_001_AccountRegistrationtTest
+2024-05-09 20:55:05 INFO  TC_001_AccountRegistrationTest:64 - Clicked on My Account 
+2024-05-09 20:55:07 INFO  TC_001_AccountRegistrationTest:67 - Clicked on Register 
+2024-05-09 20:55:08 INFO  TC_001_AccountRegistrationTest:72 - Provided First Name 
+2024-05-09 20:55:08 INFO  TC_001_AccountRegistrationTest:75 - Provided Last Name 
+2024-05-09 20:55:08 INFO  TC_001_AccountRegistrationTest:79 - Provided Email 
+2024-05-09 20:55:08 INFO  TC_001_AccountRegistrationTest:82 - Provided Telephone 
+2024-05-09 20:55:08 INFO  TC_001_AccountRegistrationTest:85 - Provided Password 
+2024-05-09 20:55:09 INFO  TC_001_AccountRegistrationTest:88 - Provided Confrmed Password 
+2024-05-09 20:55:09 INFO  TC_001_AccountRegistrationTest:91 - Set Privacy Policy 
+2024-05-09 20:55:10 INFO  TC_001_AccountRegistrationTest:94 - Clicked on Continue 
+2024-05-09 20:55:12 INFO  TC_001_AccountRegistrationTest:106 - Finished TC_001_AccountRegistrationtTest
+2024-05-09 20:55:24 INFO  TC_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-05-09 20:55:24 INFO  TC_002_LoginTest:21 - clicked on myaccount link on the home page..
+2024-05-09 20:55:25 INFO  TC_002_LoginTest:23 - clicked on login link under myaccount..
+2024-05-09 20:55:25 INFO  TC_002_LoginTest:27 - Entering valid email and password..
+2024-05-09 20:55:27 INFO  TC_002_LoginTest:31 - clicked on ligin button..
+2024-05-09 20:55:27 INFO  TC_002_LoginTest:43 - **** Finished TC_002_LoginTest  ****
+2024-05-09 22:29:03 INFO  TC_001_AccountRegistrationTest:60 - Strating TC_001_AccountRegistrationtTest
+2024-05-09 22:29:04 INFO  TC_001_AccountRegistrationTest:64 - Clicked on My Account 
+2024-05-09 22:29:05 INFO  TC_001_AccountRegistrationTest:67 - Clicked on Register 
+2024-05-09 22:29:05 INFO  TC_001_AccountRegistrationTest:72 - Provided First Name 
+2024-05-09 22:29:05 INFO  TC_001_AccountRegistrationTest:75 - Provided Last Name 
+2024-05-09 22:29:05 INFO  TC_001_AccountRegistrationTest:79 - Provided Email 
+2024-05-09 22:29:05 INFO  TC_001_AccountRegistrationTest:82 - Provided Telephone 
+2024-05-09 22:29:06 INFO  TC_001_AccountRegistrationTest:85 - Provided Password 
+2024-05-09 22:29:06 INFO  TC_001_AccountRegistrationTest:88 - Provided Confrmed Password 
+2024-05-09 22:29:06 INFO  TC_001_AccountRegistrationTest:91 - Set Privacy Policy 
+2024-05-09 22:29:08 INFO  TC_001_AccountRegistrationTest:94 - Clicked on Continue 
+2024-05-09 22:29:10 INFO  TC_001_AccountRegistrationTest:106 - Finished TC_001_AccountRegistrationtTest
+2024-05-09 22:29:16 INFO  TC_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-05-09 22:29:16 INFO  TC_002_LoginTest:21 - clicked on myaccount link on the home page..
+2024-05-09 22:29:16 INFO  TC_002_LoginTest:23 - clicked on login link under myaccount..
+2024-05-09 22:29:16 INFO  TC_002_LoginTest:27 - Entering valid email and password..
+2024-05-09 22:29:18 INFO  TC_002_LoginTest:31 - clicked on ligin button..
+2024-05-09 22:29:18 INFO  TC_002_LoginTest:43 - **** Finished TC_002_LoginTest  ****
+2024-05-09 22:34:58 INFO  TC_001_AccountRegistrationTest:60 - Strating TC_001_AccountRegistrationtTest
+2024-05-09 22:34:58 INFO  TC_001_AccountRegistrationTest:64 - Clicked on My Account 
+2024-05-09 22:34:59 INFO  TC_001_AccountRegistrationTest:67 - Clicked on Register 
+2024-05-09 22:34:59 INFO  TC_001_AccountRegistrationTest:72 - Provided First Name 
+2024-05-09 22:34:59 INFO  TC_001_AccountRegistrationTest:75 - Provided Last Name 
+2024-05-09 22:34:59 INFO  TC_001_AccountRegistrationTest:79 - Provided Email 
+2024-05-09 22:34:59 INFO  TC_001_AccountRegistrationTest:82 - Provided Telephone 
+2024-05-09 22:34:59 INFO  TC_001_AccountRegistrationTest:85 - Provided Password 
+2024-05-09 22:35:00 INFO  TC_001_AccountRegistrationTest:88 - Provided Confrmed Password 
+2024-05-09 22:35:00 INFO  TC_001_AccountRegistrationTest:91 - Set Privacy Policy 
+2024-05-09 22:35:01 INFO  TC_001_AccountRegistrationTest:94 - Clicked on Continue 
+2024-05-09 22:35:03 INFO  TC_001_AccountRegistrationTest:106 - Finished TC_001_AccountRegistrationtTest
+2024-05-09 22:35:06 INFO  TC_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-05-09 22:35:07 INFO  TC_002_LoginTest:21 - clicked on myaccount link on the home page..
+2024-05-09 22:35:07 INFO  TC_002_LoginTest:23 - clicked on login link under myaccount..
+2024-05-09 22:35:07 INFO  TC_002_LoginTest:27 - Entering valid email and password..
+2024-05-09 22:35:08 INFO  TC_002_LoginTest:31 - clicked on ligin button..
+2024-05-09 22:35:08 INFO  TC_002_LoginTest:43 - **** Finished TC_002_LoginTest  ****
+2024-05-09 22:45:52 INFO  TC_001_AccountRegistrationTest:60 - Strating TC_001_AccountRegistrationtTest
+2024-05-09 22:45:53 INFO  TC_001_AccountRegistrationTest:64 - Clicked on My Account 
+2024-05-09 22:45:53 INFO  TC_001_AccountRegistrationTest:67 - Clicked on Register 
+2024-05-09 22:45:53 INFO  TC_001_AccountRegistrationTest:72 - Provided First Name 
+2024-05-09 22:45:53 INFO  TC_001_AccountRegistrationTest:75 - Provided Last Name 
+2024-05-09 22:45:53 INFO  TC_001_AccountRegistrationTest:79 - Provided Email 
+2024-05-09 22:45:54 INFO  TC_001_AccountRegistrationTest:82 - Provided Telephone 
+2024-05-09 22:45:54 INFO  TC_001_AccountRegistrationTest:85 - Provided Password 
+2024-05-09 22:45:54 INFO  TC_001_AccountRegistrationTest:88 - Provided Confrmed Password 
+2024-05-09 22:45:54 INFO  TC_001_AccountRegistrationTest:91 - Set Privacy Policy 
+2024-05-09 22:45:55 INFO  TC_001_AccountRegistrationTest:94 - Clicked on Continue 
+2024-05-09 22:45:57 INFO  TC_001_AccountRegistrationTest:106 - Finished TC_001_AccountRegistrationtTest
+2024-05-09 22:46:02 INFO  TC_002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-05-09 22:46:02 INFO  TC_002_LoginTest:21 - clicked on myaccount link on the home page..
+2024-05-09 22:46:02 INFO  TC_002_LoginTest:23 - clicked on login link under myaccount..
+2024-05-09 22:46:02 INFO  TC_002_LoginTest:27 - Entering valid email and password..
+2024-05-09 22:46:04 INFO  TC_002_LoginTest:31 - clicked on ligin button..
+2024-05-09 22:46:04 INFO  TC_002_LoginTest:43 - **** Finished TC_002_LoginTest  ****
