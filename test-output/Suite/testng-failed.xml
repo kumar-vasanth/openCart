@@ -7,6 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="Sanity"/>
+        <include name="Regression"/>
+        <include name="master"/>
+      </run>
+    </groups>
     <classes>
       <class name="testCases.TC_002_LoginTest">
         <methods>
@@ -17,8 +24,8 @@
       </class> <!-- testCases.TC_002_LoginTest -->
       <class name="testCases.TC_001_AccountRegistrationTest">
         <methods>
+          <include name="test_account_Registration"/>
           <include name="tearDown"/>
-          <include name="verify_account_registration"/>
           <include name="setup"/>
         </methods>
       </class> <!-- testCases.TC_001_AccountRegistrationTest -->

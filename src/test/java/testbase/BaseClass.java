@@ -102,7 +102,7 @@ public class BaseClass {
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
-		driver.get(p.getProperty("appURL1"));
+		driver.get(p.getProperty("appURL2"));
 		driver.manage().window().maximize();
 	}
 
